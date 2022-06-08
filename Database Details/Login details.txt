@@ -1,0 +1,20 @@
+**Database Name: oesm**
+
+**Developed by Sunny Prakash Tiwari**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Student Login Details**
+	(1)
+Email   : nayemmd.cse21@gmail.com
+Password: 123456
+	(2)
+Email   : arman.hub@gmail.com
+Password: 654321
+
+
+**Admin Login Details**
+
+Email    : mdnayem.cse21@gmail.com
+Password : 12345678
